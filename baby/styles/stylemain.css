@@ -1,21 +1,23 @@
 .main {
     display: flex;
-    width: 1327px;
-    height: 452px;
     margin-left: 6em;
     margin-top: 1em;
     border-radius: 44px;
-}
-
-.photo {
     background: linear-gradient(to right, #ffffff00 0%, #fff 100%),
-    url(/baby/images/фото.png);
+    url(https://imgbly.com/ib/LEYwnMf4Un.png);
     width: 1059px;
     height: 452px;
 }
 
+.photo {
+    margin-left:55%;
+
+ 
+}
+
+
 .text {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-weight: 700;
     font-size: 35px;
 }
@@ -23,15 +25,18 @@
 .imp-main {
     display: block;
     margin-top: 1em;
-    text-align: right;
+    text-align: center;
 }
 
 .main-text {
-    font-weight: 800;
-    font-size: 40px;
+    font-weight: bolder;
+    font-size: 60px;
     -webkit-text-stroke: 1px white;
-}
 
+}
+.sub-text{
+    font-size: 40px;
+}
 .block-mid {
     display: flex;
     float: right;
@@ -44,7 +49,7 @@
     display: flex;
     float: right;
     margin-right: 4em;
-    margin-top: 1em;
+    margin-top: 1.5em;
     border-radius: 32px;
     width: 480px;
     height: 170px;
@@ -65,6 +70,7 @@
 }
 
 .zay {
+    margin-top: 1.5em;
     display: flex;
     float: right;
     width: 590px;
@@ -76,6 +82,7 @@
     font-weight: 400;
     font-size: 28px;
     text-align: center;
+
 }
 
 .number {

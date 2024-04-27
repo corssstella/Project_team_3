@@ -10,7 +10,7 @@
 
 .photo-ser {
     background: linear-gradient(to left, #ffffff00 0%, #fff 100%),
-    url(/baby/images/фото2.png);
+    url(https://imgbly.com/ib/LU8G8m2WoW.png);
     width: 852px;
     border-radius: 74px;
 }
@@ -31,16 +31,17 @@
 
 .leftbtn {
     display: block;
-    margin-top: 7.5em;
+    margin-top: 5em;
     margin-left: 6em;
     width: 270px;
     height: 208px;
 }
 
+
 .elipse {
     display: flex;
     justify-content: center;
-    margin-top: 1px;
+    margin-top: 25px;
     width: 100px;
     height: 100px;
     border-radius: 100%;
@@ -50,6 +51,7 @@
 .btnser {
     display: flex;
     text-decoration: none;
+    align-items: center;
     color: #8b5544;
     font-weight: 500;
     font-size: 35px;

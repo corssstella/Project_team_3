@@ -1,0 +1,38 @@
+.choose {
+    display: flex;
+    justify-content: space-around;
+    width: 1319px;
+    height: 453px;
+    border-radius: 44px;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), #fff 100%),
+    url(https://imgbly.com/ib/ocpScqyd1J.png);
+    margin-top: 1.5em;
+    margin-left: 6em;
+    margin-bottom: 1.5em;
+}
+
+.choose div{
+    margin-top: 3.7em;
+    border-radius: 44px;
+    width: 357px;
+    height: 340px;
+    box-shadow: 5px 5px 33px 5px rgba(0, 0, 0, 0.25);
+    background: rgba(255, 217, 167, 0.74);
+}
+
+.choose li {
+    margin-left: 1.3em;
+    margin-right: 1em;
+    font-weight: 400;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.choose span {
+    font-weight: 700;
+}
+
+.up {
+    margin-top: 1.5em;
+}
+

@@ -1,0 +1,41 @@
+.title {
+    margin-top: 7em;
+    height: 400px;
+    /* background-color: aqua; */
+    padding-left: 7.5em;
+}
+
+.msitter {
+    display: grid;
+    width: 1313px;
+    height: 353px;
+    background: linear-gradient(to left, #ffffff00 0%, #fff 100%),
+    url(/baby/images/Фото4.png);
+    border-radius: 44px;
+}
+
+.nyny {
+    margin-top: 2em;
+    /* margin-bottom: 1em; */
+    height: 53px;
+    width: 164px;
+    border-radius: 20px;
+    background: rgba(251, 191, 120, 0.74);
+}
+
+.text {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.text-container {
+    width: 600px;
+}
+
+.text-main {
+    font-weight: 400;
+    font-size: 24px;
+    text-align: justify;
+}

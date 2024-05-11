@@ -1,0 +1,36 @@
+.main-sort {
+    display: flex;
+    margin-left: 10em;
+    margin-top: 2em;
+}
+
+.sort {
+    display: flex;
+    justify-content: center;
+    border-radius: 16px;
+    width: 240px;
+    height: 43px;
+    padding-top: 10px;
+    background: #fccf9a;
+}
+
+.sort-text {
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.price {
+    display: flex;
+    justify-content: center;
+    border-radius: 16px;
+    width: 240px;
+    height: 43px;
+    margin-left: 4em;
+    padding-top: 10px;
+    background: #fccf9a;
+}
+
+.block {
+    margin-left: 0.5em;
+    margin-top: 0.3em;
+}

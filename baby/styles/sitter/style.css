@@ -1,8 +1,12 @@
 .title {
     margin-top: 7em;
     height: 400px;
-    /* background-color: aqua; */
     padding-left: 7.5em;
+    border: solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: #fab57f;
 }
 
 .msitter {
@@ -16,6 +20,7 @@
 
 .nyny {
     margin-top: 2em;
+    margin-left: 15em;
     /* margin-bottom: 1em; */
     height: 53px;
     width: 164px;
@@ -31,10 +36,12 @@
 }
 
 .text-container {
+    margin-left: 1.5em;
     width: 600px;
 }
 
 .text-main {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     font-weight: 400;
     font-size: 24px;
     text-align: justify;

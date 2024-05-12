@@ -1,0 +1,61 @@
+.tab {
+    display: flex;
+    border-radius: 26px;
+    width: 1350px;
+    height: 320px;
+    background: #e4e4e4;
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-bottom: 2em;
+}
+
+.port {
+    display: grid;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+.image {
+    border-radius: 25px;
+    width: 211px;
+    height: 219px;
+    background: url(/Project_team_3/baby/images/фото5.png);
+}
+
+.text-img {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.opi {
+    margin-top: 1em;
+    margin-left: 1.5em;
+    padding: 1em;
+    padding-top: 0.3em;
+    border-radius: 27px;
+    width: 800px;
+    height: 260px;
+    background: #fff;
+}
+
+.opi li {
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: 400;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.opi span {
+    font-weight: 700;
+}
+
+.cen {
+    border-radius: 27px;
+    width: 179px;
+    height: 278px;
+    background: #fff;
+    margin-top: 1em;
+    margin-left: 3em;
+}

@@ -4,7 +4,7 @@
     width: 1319px;
     height: 453px;
     border-radius: 44px;
-    background: linear-gradient(to right, rgba(255, 255, 255, 0), #fff 100%),
+    background: linear-gradient(to right, rgba(180, 157, 157, 0), #fff 100%),
     url(https://imgbly.com/ib/ocpScqyd1J.png);
     margin-top: 1.5em;
     margin-left: 6em;
@@ -35,4 +35,3 @@
 .up {
     margin-top: 1.5em;
 }
-

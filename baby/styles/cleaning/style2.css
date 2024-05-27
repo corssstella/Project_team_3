@@ -3,6 +3,11 @@
     height: 400px;
     /* background-color: aqua; */
     padding-left: 7.5em;
+    border: solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: #fab57f;
 }
 
 .msitter {
@@ -18,9 +23,10 @@
 
 .nyny {
     margin-top: 2em;
+    margin-left: 15em;
     /* margin-bottom: 1em; */
     height: 53px;
-    width: 164px;
+    width: 200px;
     border-radius: 20px;
     background: rgba(251, 191, 120, 0.74);
 }
@@ -33,18 +39,15 @@
 }
 
 .text-container {
+    margin-left: 1.5em;
     width: 600px;
 }
 
 .text-main {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     font-weight: 400;
     font-size: 24px;
     text-align: justify;
-}
-
-.lin {
-    height: 5px;
-    background-color: chocolate;
 }
 
 .pers{

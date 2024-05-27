@@ -1,9 +1,12 @@
+
 body {
+    position: relative;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+background-color: #c6c6c6;
     margin: 0;
     padding: 0;
 }
+
 
 div {
     max-width: 400px;

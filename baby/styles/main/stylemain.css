@@ -1,18 +1,19 @@
+
 .main {
     display: flex;
     margin-left: 6em;
     margin-top: 1em;
     border-radius: 44px;
     background: linear-gradient(to right, #ffffff00 0%, #fff 100%),
-    url(https://imgbly.com/ib/LEYwnMf4Un.png);
+    url(https://imgbly.com/ib/XC54zads2z.png);
     width: 1059px;
     height: 452px;
+    
 }
 
 .photo {
     margin-left:55%;
 
- 
 }
 
 

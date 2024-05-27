@@ -9,7 +9,7 @@ document.getElementById('mars-once').addEventListener('submit', function(event) 
     }
 
     setTimeout(function() {
-        alert('Форма успешно отправлена!');
+        alert('Заявка успешно отправлена!');
         window.location.href = 'index.html';
     }, 500);
 });
